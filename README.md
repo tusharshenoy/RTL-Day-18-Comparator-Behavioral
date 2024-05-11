@@ -1,1 +1,1 @@
-# RTL-Day-18-Comparator-Behavioral-I
+# RTL-Day-18-Comparator-Behavioral
